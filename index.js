@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const hamburgerIcon = document.getElementById("hamburger-icon");
-  const mobileMenu = document.getElementById("mobile-menu");
+  const mobileMenu = document.getElementById("menu-button");
   const closeMenu = document.getElementById("close-menu");
 
   if (hamburgerIcon && mobileMenu && closeMenu) {
