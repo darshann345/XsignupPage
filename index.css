@@ -58,7 +58,7 @@ header {
 }
 
 /* Mobile Menu */
-.mobile-menu {
+.menu-button {
   display: none;
   position: fixed;
   top: 0;
@@ -72,21 +72,21 @@ header {
   transition: transform 0.3s ease-in-out;
 }
 
-.mobile-menu.active {
+.menu-button.active {
   display: block;
 }
 
-.mobile-menu ul {
+.menu-button ul {
   list-style: none;
   padding: 0;
   margin-top: 40px;
 }
 
-.mobile-menu ul li {
+.menu-button ul li {
   margin-bottom: 20px;
 }
 
-.mobile-menu a {
+.menu-button a {
   text-decoration: none;
   color: #333;
   font-weight: 600;
