@@ -27,12 +27,13 @@ header {
 .logo {
   height: 30px;
 }
-
-.nav-items ul {
+.nav-items ul { 
   list-style: none;
   display: flex;
   gap: 30px;
 }
+
+
 
 .nav-items a {
   text-decoration: none;
