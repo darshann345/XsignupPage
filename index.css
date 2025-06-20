@@ -139,6 +139,7 @@ header {
   color: #1a1a1a;
   display: flex;
   flex-direction: row;
+  white-space: pre-line;
 }
 
 .para p {
