@@ -34,6 +34,12 @@ header {
 }
 
 
+.nav-items.open {
+  display: flex;
+}
+
+
+
 
 .nav-items a {
   text-decoration: none;
